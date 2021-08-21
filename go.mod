@@ -1,4 +1,4 @@
-module github.com/penggy/service
+module github.com/onedss/service
 
 go 1.14
 
