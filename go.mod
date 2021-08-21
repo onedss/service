@@ -1,4 +1,4 @@
-module service
+module github.com/penggy/service
 
 go 1.14
 
